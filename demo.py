@@ -28,4 +28,4 @@ if __name__ == "__main__":
         # display article summary in paragraph
         article_paragraph.markdown(summary)
 
-    st.write("люблю мишу соломина 🤍🤍🤍")
+
